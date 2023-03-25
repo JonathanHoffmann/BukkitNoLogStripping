@@ -1,0 +1,13 @@
+name: NoLogStripping
+main: me.Jonnyfant.NoLogStripping.NoLogStripping
+author: Jonnyfant
+version: 1.0
+api-version: 1.16
+commands:
+  nologstripping:
+    permission: nologstripping.use
+    description: Toggles Log stripping on and off
+    aliases: [nlg]
+  nologstrippingdefault:
+    permission: nologstripping.use
+    description: Toggles the default when logging in to the server
